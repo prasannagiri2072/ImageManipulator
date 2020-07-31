@@ -1,4 +1,5 @@
 from PIL import Image
+ 
 
 def get_image_details(image):
     img = Image.open(image)
